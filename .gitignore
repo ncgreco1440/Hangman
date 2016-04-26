@@ -1,3 +1,8 @@
+#sublime-files
+*.sublime-project
+*.sublime-workspace
+builds/*
+
 # Compiled Object files
 *.slo
 *.lo
